@@ -7228,7 +7228,7 @@
     (property "Reference" "R25" (at 229.235 83.82 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 229.235 86.36 90)
+    (property "Value" "0R" (at 229.235 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 229.235 91.948 90)
