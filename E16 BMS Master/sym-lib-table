@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "E16 BMS Master-rescue")(type "KiCad")(uri "${KIPRJMOD}/E16 BMS Master-rescue.kicad_sym")(options "")(descr ""))
+)
